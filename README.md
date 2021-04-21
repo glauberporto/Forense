@@ -19,6 +19,11 @@ Ferramentas
 https://blog.didierstevens.com/2012/07/19/userassist-windows-2000-thru-windows-8/
 
 
+https://minutodaseguranca.blog.br/ferramentas-mais-importantes-de-computacao-forense/
+
+
+
+
 
 
 Ferramentas mais importantes de computação forense para hackers e profissionais de segurança
